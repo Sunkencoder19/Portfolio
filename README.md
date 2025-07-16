@@ -6,11 +6,6 @@ This project was created as part of a Tailwind Bootcamp submission to showcase m
 🔗 Live Demo
 👉 [View Portfolio Website]( https://sunkencoder19.github.io/Portfolio/)
 
-📁 Project Structure
-├── index.html
-├── profile.jpg
-├── resume.pdf
-
 📌 Features
 - 🔗 Sticky Navbar with smooth scrolling
 - 🏠 Home Section – Name, role, tagline, photo
