@@ -11,7 +11,7 @@ This project was created as part of a Tailwind Bootcamp submission to showcase m
 - 🏠 Home Section – Name, role, tagline, photo
 - 👨‍💻 About Section – Skills, education
 - 💼 Projects Section – 3 project cards (OTT, E-commerce, Social Media)
-- 📬 Contact Section – Simple form UI
+- 📬 Contact Section – Simple form UI - connecting to form is still in process
 - 📄 Resume Download button
 - ⚙️ Fully responsive design
 - 🎨 Clean and modern UI/UX
