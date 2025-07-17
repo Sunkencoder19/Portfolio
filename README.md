@@ -10,7 +10,7 @@ This project was created as part of a Tailwind Bootcamp submission to showcase m
 - 🔗 Sticky Navbar with smooth scrolling
 - 🏠 Home Section – Name, role, tagline, photo
 - 👨‍💻 About Section – Skills, education
-- 💼 Projects Section – 3 project cards (OTT, E-commerce, Social Media)
+- 💼 Projects Section – 4 project cards (OTT, E-commerce, Social Media, Smart PDF Reader)
 - 📬 Contact Section – Simple form UI - connecting to form is still in process
 - 📄 Resume Download button
 - ⚙️ Fully responsive design
